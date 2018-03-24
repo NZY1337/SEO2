@@ -1,0 +1,27 @@
+h1, h2, h3, h4, h5, h6, p, img, ul, li, a, button { padding: 0px; margin: 0px; }
+
+h1 { font-size: 2.441rem; line-height: 1.218; }
+
+h2 { font-size: 1.953rem; line-height: 1.218; letter-spacing: .2rem; }
+
+h3 { font-size: 1.563rem; line-height: 1.318; }
+
+h4 { font-size: 1.25rem; line-height: 1.218; }
+
+h5 { font-size: 1rem; line-height: 1.118; padding-bottom: 1rem; letter-spacing: 0.22rem; }
+
+h6 { font-size: 0.8em; line-height: 1.118; padding-bottom: 1rem; letter-spacing: 0.12rem; }
+
+p { font-size: .9rem; letter-spacing: .2rem; }
+
+ul, menu, dir { display: block; list-style-type: none; -webkit-margin-before: 0em; -webkit-margin-after: 0em; -webkit-margin-start: 0px; -webkit-margin-end: 0px; -webkit-padding-start: 0px; margin: 0px; padding: 0px; }
+
+section { padding-top: 3rem; padding-bottom: 3rem; }
+
+a { color: #111; letter-spacing: .2rem; }
+
+a:hover, a:focus { text-decoration: none; letter-spacing: .2rem; }
+
+.mx-30 { margin-left: 2rem; margin-right: 2rem; }
+
+.px-30 { padding-left: 2rem; padding-right: 2rem; }

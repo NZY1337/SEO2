@@ -1,0 +1,95 @@
+
+
+body, html {
+  margin:0;
+  padding:0;
+  width:100%;
+  height:100%;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+
+// font-family
+
+
+
+h1, h2, h3, h4, h5, h6   {
+    margin:0;
+    font-family: $frank;
+}
+
+* {
+    padding:0;
+    margin:0;
+}
+
+ 
+ 
+p {
+    font-size:1rem;
+    margin:0;
+    letter-spacing: .1rem;
+    font-family:$openSans;  
+}
+
+a:hover, a:focus{text-decoration: none;}
+
+
+h1 {
+    font-size: 50px;
+    @media (min-width:768px) {
+        font-size: 65px;
+    }
+}
+ 
+h2 {
+    
+        font-size: 30px;
+    @media (min-width:768px) {
+        font-size: 45px;
+    }
+}
+
+h3 {
+    font-size: 32px;
+}
+
+h4 {
+    font-size: 25px;
+    line-height: 2rem;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+h6 {
+    font-size: 14px;
+}
+
+.owl-theme .owl-nav [class*=owl-] {
+    color:white;;
+    font-size: .9rem;
+    padding: 4px 10px;
+    background: $color-primary__light;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 0px;
+    letter-spacing: .1rem;
+    transition: .1s;
+    
+    &:hover {
+        background: $color-primary__light;
+        color:white;
+        transform: scale(1.06)
+    }
+}
+
+.owl-carousel .owl-dots.disabled, .owl-carousel .owl-nav.disabled {
+    display:block;
+}
+
+
+
+

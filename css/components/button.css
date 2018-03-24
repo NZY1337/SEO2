@@ -1,0 +1,14 @@
+.btn-site {
+  text-transform: uppercase;
+  color: red;
+  letter-spacing: .1rem;
+  border: 2px solid red;
+  border-radius: 100px;
+  padding: 1rem 2.5rem;
+  -webkit-transition: color .2s;
+  -o-transition: color .2s;
+  transition: color .2s;
+  font-size: .8rem; }
+  .btn-site:hover {
+    color: white;
+    background-color: red; }

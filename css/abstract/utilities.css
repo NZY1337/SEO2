@@ -1,0 +1,248 @@
+.py-54 {
+  padding-top: 4rem;
+  padding-bottom: 4rem; }
+
+.py-55 {
+  padding-top: 5rem;
+  padding-bottom: 5rem; }
+
+.py-6 {
+  padding-top: 6rem;
+  padding-bottom: 6rem; }
+
+.py-7 {
+  padding-top: 7rem;
+  padding-bottom: 7rem; }
+
+.py-8 {
+  padding-top: 8rem;
+  padding-bottom: 8rem; }
+
+.py-9 {
+  padding-top: 9rem;
+  padding-bottom: 9rem; }
+
+.py-10 {
+  padding-top: 10rem;
+  padding-bottom: 10rem; }
+
+.pb-54 {
+  padding-bottom: 4rem; }
+
+.pb-55 {
+  padding-bottom: 5rem; }
+
+.pb-6 {
+  padding-bottom: 6rem; }
+
+.pb-7 {
+  padding-bottom: 7rem; }
+
+.pb-8 {
+  padding-bottom: 8rem; }
+
+.pb-9 {
+  padding-bottom: 9rem; }
+
+.pb-10 {
+  padding-bottom: 10rem; }
+
+.pl-54 {
+  padding-left: 4rem; }
+
+.pl-55 {
+  padding-left: 5rem; }
+
+.pl-6 {
+  padding-left: 6rem; }
+
+.pl-7 {
+  padding-left: 7rem; }
+
+.pl-8 {
+  padding-left: 8rem; }
+
+.pl-9 {
+  padding-left: 9rem; }
+
+.pl-10 {
+  padding-left: 10rem; }
+
+.pr-54 {
+  padding-right: 4rem; }
+
+.pr-55 {
+  padding-right: 5rem; }
+
+.pr-6 {
+  padding-right: 6rem; }
+
+.pr-7 {
+  padding-right: 7rem; }
+
+.pr-8 {
+  padding-right: 8rem; }
+
+.pr-9 {
+  padding-right: 9rem; }
+
+.pr-10 {
+  padding-right: 10rem; }
+
+.pt-54 {
+  padding-top: 4rem; }
+
+.pt-55 {
+  padding-top: 5rem; }
+
+.pt-6 {
+  padding-top: 6rem; }
+
+.pt-7 {
+  padding-top: 7rem; }
+
+.pt-8 {
+  padding-top: 8rem; }
+
+.pt-85 {
+  padding-top: 8.5rem; }
+
+.pt-9 {
+  padding-top: 9rem; }
+
+.pt-10 {
+  padding-top: 10rem; }
+
+.my-54 {
+  margin-top: 4rem;
+  margin-bottom: 4rem; }
+
+.my-55 {
+  margin-top: 5rem;
+  margin-bottom: 5rem; }
+
+.my-6 {
+  margin-top: 6rem;
+  margin-bottom: 6rem; }
+
+.my-7 {
+  margin-top: 7rem;
+  margin-bottom: 7rem; }
+
+.my-8 {
+  margin-top: 8rem;
+  margin-bottom: 8rem; }
+
+.my-9 {
+  margin-top: 9rem;
+  margin-bottom: 9rem; }
+
+.my-10 {
+  margin-top: 10rem;
+  margin: 10rem; }
+
+.mb-54 {
+  margin-bottom: 4rem; }
+
+.mb-55 {
+  margin-bottom: 5rem; }
+
+.mb-6 {
+  margin-bottom: 6rem; }
+
+.mb-7 {
+  margin-bottom: 7rem; }
+
+.mb-8 {
+  margin-bottom: 8rem; }
+
+.mb-9 {
+  margin-bottom: 9rem; }
+
+.mb-10 {
+  margin-bottom: 10rem; }
+
+.mt-54 {
+  margin-top: 4rem; }
+
+.mt-55 {
+  margin-top: 5rem; }
+
+.mt-6 {
+  margin-top: 6rem; }
+
+.mt-7 {
+  margin-top: 7rem; }
+
+.mt-8 {
+  margin-top: 8rem; }
+
+.mt-9 {
+  margin-top: 9rem; }
+
+.mt-10 {
+  margin-top: 10rem; }
+
+.ml-54 {
+  margin-left: 4rem; }
+
+.ml-55 {
+  margin-left: 5rem; }
+
+.ml-6 {
+  margin-left: 6rem; }
+
+.ml-7 {
+  margin-left: 7rem; }
+
+.ml-8 {
+  margin-left: 8rem; }
+
+.ml-9 {
+  margin-left: 9rem; }
+
+.ml-10 {
+  margin-left: 10rem; }
+
+.mr-54 {
+  margin-right: 4rem; }
+
+.mr-55 {
+  margin-right: 5rem; }
+
+.mr-6 {
+  margin-right: 6rem; }
+
+.mr-7 {
+  margin-right: 7rem; }
+
+.mr-8 {
+  margin-right: 8rem; }
+
+.mr-9 {
+  margin-right: 9rem; }
+
+.mr-10 {
+  margin-right: 10rem; }
+
+.mb-30 {
+  margin-bottom: 30px;
+  /*for Bootstrap col padding*/ }
+
+.my-30 {
+  margin-bottom: 30px;
+  margin-top: 30px; }
+
+.mt-30 {
+  margin-top: 30px;
+  /*for Bootstrap col padding*/ }
+
+.hero-img-1 {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(../images/w[b.jpg);
+  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.6)), url(../images/w[b.jpg);
+  background-image: -o-linear-gradient(rgba(0, 0, 0, 0.6)), url(../images/w[b.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6)), url(../images/w[b.jpg);
+  background-size: cover; }

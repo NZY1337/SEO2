@@ -1,0 +1,29 @@
+@mixin h4 {
+  color:black!important;
+  font-family: $openSans; 
+  text-transform: uppercase;
+  letter-spacing: .05rem;
+  font-size:1.4rem;
+  font-weight: 100;
+} 
+
+@mixin hr {
+    position: relative;
+    .line-1 {
+        width:30%;
+        display: inline-block;
+        border: .5px solid black;
+        position: relative;
+        transition: width .4s;
+     }
+
+    .line-2 {
+        width:3rem;
+        display: inline-block;
+        border: 2.5px solid black;
+        position:absolute;
+        top:50%; 
+        left:0;
+        transition: width .4s;
+     }
+}

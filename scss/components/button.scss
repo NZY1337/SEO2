@@ -1,0 +1,22 @@
+  
+  .btn-site {
+    text-transform:uppercase;
+    color:white;
+    letter-spacing:.1rem;
+    border:2px solid $color-primary;
+    border-radius:100px;
+    padding:.8rem 2.2rem;
+    transition: color .2s;
+    font-size:.7rem;
+    background:$color-primary;
+    @media (min-width:768px) {
+        font-size:.9rem;
+        padding:1rem 2.5rem;
+    }
+    
+    &:hover {
+         color:$color-primary;
+         background-color: transparent;
+    }
+  }
+  
